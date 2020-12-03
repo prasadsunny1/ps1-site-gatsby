@@ -3,9 +3,9 @@ module.exports = {
     title: `Sanni Prasad's blog`,
     author: {
       name: `Sanni Prasad`,
-      summary: `who lives and works in Ahmedabad building things with Flutter and more.`,
+      summary: `who lives and works in Ahmedabad creating apps using Flutter .`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Sanni Prasad's blog and Gatsby practice`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `prasadsunny1`,
